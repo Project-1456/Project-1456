@@ -12,3 +12,5 @@
 ## Team Workflow
 - Never push directly to main branch
 - Create feature branches for new work
+
+Here's a short guide on some stuff regarding Git: https://docs.google.com/document/d/1IaO4cr5YCs9t7JrZ8Fh0qY_zHujlPYBvNBusXF2I8fE/edit?usp=sharing
