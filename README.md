@@ -12,4 +12,3 @@
 ## Team Workflow
 - Never push directly to main branch
 - Create feature branches for new work
-- Submit pull requests for review
